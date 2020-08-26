@@ -1,0 +1,64 @@
+{
+	"description": "项目配置文件。",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": false,
+		"postcss": true,
+		"minified": true,
+		"es6": true
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.9.2",
+	"appid": "wxfe5132355b4f363f",
+	"projectname": "traceability_am_manager",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"current": -1,
+			"list": []
+		},
+		"gamePlugin": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 0,
+			"list": [
+				{
+					"id": -1,
+					"name": "pages/index/index",
+					"pathName": "pages/index/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/merchantproductrun/merchantproductrun",
+					"pathName": "pages/merchantproductrun/merchantproductrun",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/createProduct/createProduct",
+					"pathName": "pages/createProduct/createProduct",
+					"query": "stallId=502&stallHolderId=16",
+					"scene": null
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,114 @@
+page.data-v-35ac6d4c {
+  -webkit-user-select: auto;
+  /*webkit浏览器*/
+  user-select: auto;
+  -o-user-select: auto;
+  -ms-user-select: auto;
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+  overflow-y: scroll;
+}
+.createProduct.data-v-35ac6d4c {
+  padding-bottom: 42rpx;
+}
+.createProduct .title.data-v-35ac6d4c {
+  position: absolute;
+  font-size: 36rpx;
+  color: #fff;
+  top: 126rpx;
+  left: 70rpx;
+  font-weight: bold;
+}
+.createProduct .main .form.data-v-35ac6d4c {
+  margin: 72rpx 0 32rpx 0;
+  padding: 0 104rpx 0 103rpx;
+}
+.createProduct .main .form .item_title.data-v-35ac6d4c {
+  font-size: 32rpx;
+  color: #000;
+  margin-bottom: 52rpx;
+}
+.createProduct .main .form .form_item.data-v-35ac6d4c {
+  margin-bottom: 59rpx;
+  padding-bottom: 18rpx;
+  border-bottom: 1rpx solid #808080;
+}
+.createProduct .main .form .form_item.data-v-35ac6d4c .uni-input-placeholder {
+  font-size: 28rpx;
+  color: #808080;
+}
+.createProduct .main .form .form_item input.data-v-35ac6d4c {
+  font-size: 28rpx;
+  color: #333;
+}
+.createProduct .main .form .form_item .require.data-v-35ac6d4c {
+  color: #E60000;
+}
+.createProduct .main .form .good_img_wrap.data-v-35ac6d4c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.createProduct .main .form .good_img_wrap .item_title.data-v-35ac6d4c {
+  -webkit-box-flex: 1.2;
+  -webkit-flex: 1.2;
+          flex: 1.2;
+}
+.createProduct .main .form .good_img_wrap .item_title .require.data-v-35ac6d4c {
+  color: #E60000;
+}
+.createProduct .main .form .good_img_wrap.data-v-35ac6d4c .imageUploadContainer {
+  -webkit-box-flex: 3;
+  -webkit-flex: 3;
+          flex: 3;
+}
+.createProduct .main .form .good_img_wrap.data-v-35ac6d4c .imageUpload {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  line-height: 0;
+  margin-top: -10rpx;
+  width: 130rpx;
+  height: 130rpx;
+}
+.createProduct .main .form .good_img_wrap.data-v-35ac6d4c .imageUpload /deep/ .upload {
+  width: 55rpx;
+  height: 55rpx;
+}
+.createProduct .main .form .good_img_wrap .text.data-v-35ac6d4c {
+  font-size: 16rpx;
+  color: #808080;
+  margin-top: 20rpx;
+}
+.createProduct .main .form .inspection .item_title.data-v-35ac6d4c {
+  -webkit-box-flex: 1.2;
+  -webkit-flex: 1.2;
+          flex: 1.2;
+  margin-top: 60rpx;
+}
+.createProduct .main .form .inspection.data-v-35ac6d4c .imageUploadContainer {
+  margin-top: 60rpx;
+}
+.createProduct .main .next_wrap .btn.data-v-35ac6d4c {
+  width: 580rpx;
+  height: 84rpx;
+  -webkit-border-radius: 42rpx;
+          border-radius: 42rpx;
+  text-align: center;
+  line-height: 84rpx;
+  color: #fff;
+  background-color: #5DB793;
+  margin: 0 auto;
+  font-size: 28rpx;
+}
+

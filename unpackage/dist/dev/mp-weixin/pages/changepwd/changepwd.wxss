@@ -1,0 +1,122 @@
+.changepwd .navtitle .pwd.data-v-9396a364 {
+  width: 200rpx;
+  height: 34rpx;
+  font-size: 36rpx;
+  font-family: PingFang SC;
+  font-weight: bold;
+  color: #ffffff;
+  padding-left: 100rpx;
+  padding-top: 120rpx;
+}
+.changepwd .input.data-v-9396a364 {
+  margin-top: 80rpx;
+  min-height: 600rpx;
+}
+.changepwd .input .phone.data-v-9396a364,
+.changepwd .input .pwd.data-v-9396a364,
+.changepwd .input .code.data-v-9396a364,
+.changepwd .input .confirm.data-v-9396a364 {
+  padding: 0 102rpx;
+}
+.changepwd .input .phone .title.data-v-9396a364,
+.changepwd .input .pwd .title.data-v-9396a364,
+.changepwd .input .code .title.data-v-9396a364,
+.changepwd .input .confirm .title.data-v-9396a364 {
+  margin: 40rpx 0;
+  font-size: 42rpx;
+  font-family: PingFang SC;
+  font-weight: 500;
+  color: #000000;
+}
+.changepwd .input .phone .uni-input.data-v-9396a364,
+.changepwd .input .pwd .uni-input.data-v-9396a364,
+.changepwd .input .code .uni-input.data-v-9396a364,
+.changepwd .input .confirm .uni-input.data-v-9396a364 {
+  border-bottom: 1rpx solid #808080;
+  font-size: 32rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #808080;
+}
+.changepwd .input .phone .send.data-v-9396a364,
+.changepwd .input .pwd .send.data-v-9396a364,
+.changepwd .input .code .send.data-v-9396a364,
+.changepwd .input .confirm .send.data-v-9396a364 {
+  /* 	padding-bottom: 9rpx;
+				height:30rpx; */
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: nowrap;
+          flex-wrap: nowrap;
+}
+.changepwd .input .phone .send .uni-input.data-v-9396a364,
+.changepwd .input .pwd .send .uni-input.data-v-9396a364,
+.changepwd .input .code .send .uni-input.data-v-9396a364,
+.changepwd .input .confirm .send .uni-input.data-v-9396a364 {
+  -webkit-box-flex: 3;
+  -webkit-flex: 3;
+          flex: 3;
+  border-bottom: 1rpx solid #808080;
+}
+.changepwd .input .phone .send .getcode.data-v-9396a364,
+.changepwd .input .pwd .send .getcode.data-v-9396a364,
+.changepwd .input .code .send .getcode.data-v-9396a364,
+.changepwd .input .confirm .send .getcode.data-v-9396a364 {
+  -webkit-box-flex: 2;
+  -webkit-flex: 2;
+          flex: 2;
+  font-size: 24rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #5db793;
+  border-bottom: 1rpx solid #808080;
+}
+.changepwd .input .phone .send .getcode .again.data-v-9396a364,
+.changepwd .input .pwd .send .getcode .again.data-v-9396a364,
+.changepwd .input .code .send .getcode .again.data-v-9396a364,
+.changepwd .input .confirm .send .getcode .again.data-v-9396a364 {
+  float: right;
+}
+.changepwd .input .phone .loginpwd.data-v-9396a364,
+.changepwd .input .pwd .loginpwd.data-v-9396a364,
+.changepwd .input .code .loginpwd.data-v-9396a364,
+.changepwd .input .confirm .loginpwd.data-v-9396a364 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: nowrap;
+          flex-wrap: nowrap;
+}
+.changepwd .input .phone .loginpwd .uni-input.data-v-9396a364,
+.changepwd .input .pwd .loginpwd .uni-input.data-v-9396a364,
+.changepwd .input .code .loginpwd .uni-input.data-v-9396a364,
+.changepwd .input .confirm .loginpwd .uni-input.data-v-9396a364 {
+  -webkit-box-flex: 3;
+  -webkit-flex: 3;
+          flex: 3;
+}
+.changepwd .input .phone .loginpwd .uni-icon.data-v-9396a364,
+.changepwd .input .pwd .loginpwd .uni-icon.data-v-9396a364,
+.changepwd .input .code .loginpwd .uni-icon.data-v-9396a364,
+.changepwd .input .confirm .loginpwd .uni-icon.data-v-9396a364 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  border-bottom: 1rpx solid #808080;
+}
+.changepwd .input .phone .loginpwd .uni-icon image.data-v-9396a364,
+.changepwd .input .pwd .loginpwd .uni-icon image.data-v-9396a364,
+.changepwd .input .code .loginpwd .uni-icon image.data-v-9396a364,
+.changepwd .input .confirm .loginpwd .uni-icon image.data-v-9396a364 {
+  float: right;
+}
+.changepwd .input .confirm.data-v-9396a364 {
+  margin-top: 100rpx;
+}
+.changepwd .input .confirm button.data-v-9396a364 {
+  background: #5db793;
+  -webkit-border-radius: 40px;
+          border-radius: 40px;
+}
+

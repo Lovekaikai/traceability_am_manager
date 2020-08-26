@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "农贸市场管理员",
+  "usingComponents": {
+    "navbar": "/components/navbar/navbar",
+    "track-tab": "/components/trackTab/trackTab",
+    "uni-steps": "/components/uni-steps/uni-steps"
+  }
+}

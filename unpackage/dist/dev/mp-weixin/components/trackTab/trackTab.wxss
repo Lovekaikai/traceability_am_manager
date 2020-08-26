@@ -1,0 +1,25 @@
+.trackTab .tab.data-v-603b42d0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  padding: 0 49rpx 0 52rpx;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.trackTab .tab .tab_item.data-v-603b42d0 {
+  font-size: 28rpx;
+  width: 180rpx;
+  height: 64rpx;
+  background-color: #D9D9D9;
+  -webkit-border-radius: 32rpx;
+          border-radius: 32rpx;
+  color: #808080;
+  text-align: center;
+  line-height: 64rpx;
+}
+.trackTab .tab .active.data-v-603b42d0 {
+  background-color: #5DB793;
+  color: #fff;
+}
+

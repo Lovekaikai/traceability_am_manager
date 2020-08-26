@@ -1,0 +1,175 @@
+.boothmanagement .header .title .text.data-v-5dee2926 {
+  position: absolute !important;
+  top: 64rpx;
+  left: 71rpx;
+  height: 34rpx;
+  font-size: 36rpx;
+  font-family: PingFang SC;
+  font-weight: bold;
+  color: #ffffff;
+}
+.boothmanagement .header .pickDate_wrap.data-v-5dee2926 {
+  position: absolute;
+  width: 80%;
+  bottom: 65rpx;
+  padding: 0 71rpx 0 116rpx;
+}
+.boothmanagement .header .pickDate_wrap .content.data-v-5dee2926 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.boothmanagement .header .pickDate_wrap .content image.data-v-5dee2926 {
+  width: 40rpx;
+  height: 40rpx;
+}
+.boothmanagement .header .pickDate_wrap .content .name.data-v-5dee2926 {
+  font-size: 24rpx;
+  -webkit-box-flex: 3;
+  -webkit-flex: 3;
+          flex: 3;
+  color: #fff;
+  padding: 21rpx 25rpx;
+  border-bottom: 1rpx solid #fff;
+  margin: 0 23rpx 0 14rpx;
+  opacity: 0.9;
+}
+.boothmanagement .header .pickDate_wrap .content .btn.data-v-5dee2926 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  font-size: 24rpx;
+  width: 100rpx;
+  height: 52rpx;
+  background-color: #fff;
+  color: #5db793;
+  -webkit-border-radius: 26rpx;
+          border-radius: 26rpx;
+  text-align: center;
+  line-height: 52rpx;
+}
+.boothmanagement .container.data-v-5dee2926 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  margin-top: 50rpx;
+  /*隐藏滚动条*/
+}
+.boothmanagement .container .nav_left.data-v-5dee2926 {
+  width: 25%;
+  height: 100%;
+  text-align: center;
+  position: absolute;
+  border-right: 1rpx solid #cccccc;
+  top: 0;
+  left: 0;
+}
+.boothmanagement .container .nav_left .nav_left_items.data-v-5dee2926 {
+  height: 60rpx;
+  line-height: 60rpx;
+  font-size: 24rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #333333;
+  word-break: keep-all;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.boothmanagement .container .nav_left .nav_left_items.active.data-v-5dee2926 {
+  position: relative;
+  font-size: 24rpx;
+  font-family: PingFang SC;
+  font-weight: 500;
+  color: #ffffff;
+  width: 160rpx;
+  height: 60rpx;
+  line-height: 60rpx;
+  margin: 0 auto;
+  background: #5db793;
+  -webkit-border-radius: 30rpx;
+          border-radius: 30rpx;
+}
+.boothmanagement .container .nav_right.data-v-5dee2926 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 75%;
+  height: 100%;
+}
+.boothmanagement .container .nav_right .rightTitle.data-v-5dee2926 {
+  height: 23rpx;
+  margin-left: 40rpx;
+  font-size: 24rpx;
+  font-family: PingFang SC;
+  font-weight: bold;
+  color: #333333;
+}
+.boothmanagement .container .nav_right .nav_right_items.data-v-5dee2926 {
+  width: 100%;
+  height: 100%;
+  margin-top: 30rpx;
+}
+.boothmanagement .container .nav_right .nav_right_items .flexitem.data-v-5dee2926 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+  margin: 30rpx;
+}
+.boothmanagement .container .nav_right .nav_right_items .flexitem .row .item.data-v-5dee2926 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  margin: 7rpx;
+  width: 148rpx;
+  min-height: 180rpx;
+  background: #ffffff;
+  border: 1rpx solid #cccccc;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
+  text-align: center;
+}
+.boothmanagement .container .nav_right .nav_right_items .flexitem .row .item image.data-v-5dee2926 {
+  margin: 10rpx auto;
+}
+.boothmanagement .container .nav_right .nav_right_items .flexitem .row .item .label.data-v-5dee2926,
+.boothmanagement .container .nav_right .nav_right_items .flexitem .row .item .value.data-v-5dee2926,
+.boothmanagement .container .nav_right .nav_right_items .flexitem .row .item .name.data-v-5dee2926 {
+  padding: 4rpx;
+  font-size: 16rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #333333;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.boothmanagement .container .nav_right .nav_right_items text.data-v-5dee2926 {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.boothmanagement .container .nocate.data-v-5dee2926 {
+  padding: 100rpx;
+  text-align: center;
+}
+.boothmanagement .container .nocate image.data-v-5dee2926 {
+  width: 70rpx;
+  height: 70rpx;
+}
+.boothmanagement .container .nocate text.data-v-5dee2926 {
+  font-size: 28rpx;
+  display: block;
+  color: #bbb;
+}
+.boothmanagement .container.data-v-5dee2926 ::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  color: transparent;
+}
+

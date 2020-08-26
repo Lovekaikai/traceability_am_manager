@@ -1,0 +1,45 @@
+.index .logo.data-v-50aaca18 {
+  overflow: hidden;
+}
+.index .logo .swiper.data-v-50aaca18 {
+  width: 440px;
+  height: 440rpx;
+}
+.index .logo .swiper image.data-v-50aaca18 {
+  width: 440px;
+  height: 440rpx;
+}
+.index .title.data-v-50aaca18 {
+  padding-left: 63rpx;
+  padding-top: 63rpx;
+}
+.index .title .market.data-v-50aaca18 {
+  width: 221rpx;
+  height: 31rpx;
+  font-size: 32rpx;
+  font-family: PingFang SC;
+  font-weight: bold;
+  color: #333333;
+}
+.index .list.data-v-50aaca18 {
+  margin-top: 80rpx;
+  margin-left: 108rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.index .list .item.data-v-50aaca18 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  margin: 0 30rpx;
+}
+.index .list .item text.data-v-50aaca18 {
+  width: 110rpx;
+  height: 26rpx;
+  font-size: 28rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #333333;
+}
+

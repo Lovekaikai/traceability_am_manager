@@ -1,0 +1,151 @@
+.merchantProductRun .header.data-v-c01c501c {
+  margin-bottom: 100rpx;
+}
+.merchantProductRun .header .title.data-v-c01c501c {
+  position: absolute;
+  top: 64rpx;
+  left: 71rpx;
+  font-size: 36rpx;
+  color: #fff;
+}
+.merchantProductRun .header .pickDate_wrap.data-v-c01c501c {
+  position: absolute;
+  width: 80%;
+  bottom: 65rpx;
+  padding: 0 71rpx 0 116rpx;
+}
+.merchantProductRun .header .pickDate_wrap .content.data-v-c01c501c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.merchantProductRun .header .pickDate_wrap .content image.data-v-c01c501c {
+  width: 40rpx;
+  height: 40rpx;
+}
+.merchantProductRun .header .pickDate_wrap .content .date.data-v-c01c501c {
+  font-size: 24rpx;
+  -webkit-box-flex: 3;
+  -webkit-flex: 3;
+          flex: 3;
+  color: #fff;
+  padding: 21rpx 25rpx;
+  border-bottom: 1rpx solid #fff;
+  margin: 0 23rpx 0 14rpx;
+  opacity: 0.9;
+}
+.merchantProductRun .header .pickDate_wrap .content .close.data-v-c01c501c {
+  color: #fff;
+  margin-right: 20rpx;
+  font-size: 30rpx;
+}
+.merchantProductRun .header .pickDate_wrap .content .btn.data-v-c01c501c {
+  font-size: 24rpx;
+  width: 140rpx;
+  height: 52rpx;
+  background-color: #fff;
+  color: #5DB793;
+  -webkit-border-radius: 26rpx;
+          border-radius: 26rpx;
+  text-align: center;
+  line-height: 52rpx;
+}
+.merchantProductRun .main.data-v-c01c501c {
+  margin-top: 200rpx;
+  padding: 0 32rpx;
+  position: relative;
+}
+.merchantProductRun .main .add_good.data-v-c01c501c {
+  width: 120rpx;
+  height: 120rpx;
+  background: #5db793;
+  -webkit-box-shadow: 0rpx 0rpx 10rpx 0rpx #8adaba;
+          box-shadow: 0rpx 0rpx 10rpx 0rpx #8adaba;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+  position: absolute;
+  top: -160rpx;
+  right: 65rpx;
+}
+.merchantProductRun .main .add_good image.data-v-c01c501c {
+  padding-left: 43rpx;
+  padding-top: 12rpx;
+}
+.merchantProductRun .main .add_good .txt.data-v-c01c501c {
+  padding-left: 15rpx;
+  height: 14rpx;
+  font-size: 24rpx;
+  font-family: PingFang SC;
+  font-weight: 500;
+  color: #ffffff;
+}
+.merchantProductRun .main .nogoodstext.data-v-c01c501c {
+  height: 29rpx;
+  font-size: 28rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #808080;
+}
+.merchantProductRun .main .good_item.data-v-c01c501c {
+  position: relative;
+  border: 1rpx solid #ccc;
+  border-left: 4rpx solid #5DB793;
+  margin: 32rpx;
+}
+.merchantProductRun .main .good_item .good_batch.data-v-c01c501c {
+  padding-top: 30rpx;
+  padding-left: 10rpx;
+  height: 27rpx;
+  font-size: 28rpx;
+  font-family: PingFang SC;
+  font-weight: bold;
+  color: #5db793;
+  margin-bottom: 34rpx;
+}
+.merchantProductRun .main .good_item .good_info_wrap.data-v-c01c501c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.merchantProductRun .main .good_item .good_info_wrap image.data-v-c01c501c {
+  width: 200rpx;
+  height: 200rpx;
+  padding: 10rpx;
+}
+.merchantProductRun .main .good_item .good_info_wrap .good_desc.data-v-c01c501c {
+  padding-left: 38rpx;
+}
+.merchantProductRun .main .good_item .good_info_wrap .good_desc .good_name.data-v-c01c501c,
+.merchantProductRun .main .good_item .good_info_wrap .good_desc .good_num.data-v-c01c501c {
+  font-size: 28rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #808080;
+  margin-bottom: 31rpx;
+}
+.merchantProductRun .main .good_item .good_info_wrap .good_desc .good_name text.data-v-c01c501c,
+.merchantProductRun .main .good_item .good_info_wrap .good_desc .good_num text.data-v-c01c501c {
+  font-size: 28rpx;
+  font-family: PingFang SC;
+  font-weight: 500;
+  color: #333333;
+}
+.merchantProductRun .main .good_item .good_info_wrap .good_desc .samplingbtn button.data-v-c01c501c {
+  position: absolute;
+  bottom: 34rpx;
+  right: 30rpx;
+  height: 56rpx;
+  line-height: 56rpx;
+  background: #5db793;
+  border: 1rpx solid #5db793;
+  -webkit-border-radius: 28rpx;
+          border-radius: 28rpx;
+  font-size: 28rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #ffffff;
+}
+

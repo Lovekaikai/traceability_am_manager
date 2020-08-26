@@ -1,0 +1,84 @@
+.flowTraceEnter {
+	padding-bottom: 42rpx;
+	.title {
+		position: absolute;
+		font-size: 36rpx;
+		color: #fff;
+		top: 126rpx;
+		left: 70rpx;
+		font-weight: bold;
+	}
+	.add_btn {
+		position: absolute;
+		bottom: 33rpx;
+		right: 50rpx;
+		width: 164rpx;
+		height: 60rpx;
+		color: #5DB793;
+		border-radius: 30rpx;
+		background-color: #fff;
+		font-size: 24rpx;
+		line-height: 60rpx;
+		text-align: center;
+	}
+	
+	.main {
+		.form {
+			margin: 64rpx 0 53rpx 0;
+			.form_item {
+				margin-bottom: 98rpx;
+				&:last-child {
+					margin-bottom: 0;
+				}
+				.item_title{
+					display: flex;
+					font-size: 32rpx;
+					color: #5DB793;
+					margin-bottom: 40rpx;
+					padding-left: 72rpx;
+					.right,.left{
+						flex:1
+					}
+				}
+				.subform {
+					padding: 0 104rpx 0 103rpx;
+					.subform_item {
+						padding-bottom: 18rpx;
+						margin-bottom: 59rpx;
+						border-bottom: 1rpx solid #808080;
+						&:last-child {
+							margin-bottom: 0;
+						}
+						.subitem_title {
+							font-size: 32rpx;
+							color: #000;
+							margin-bottom: 51rpx;
+						}
+						/deep/ .uni-input-placeholder {
+							font-size: 28rpx;
+							color: #808080;
+						}
+						input {
+							font-size: 28rpx;
+							color: #333;
+						}	
+					}
+				}
+			}
+		}
+		
+		.next_btn_wrap {
+			.btn {
+				width: 580rpx;
+				height: 84rpx;
+				background-color: #5DB793;
+				font-size: 28rpx;
+				color: #fff;
+				border-radius: 42rpx;
+				text-align: center;
+				line-height: 84rpx;
+				margin: 0 auto;
+			}
+		}		
+	}
+}

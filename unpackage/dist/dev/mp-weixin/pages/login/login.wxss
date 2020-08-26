@@ -1,0 +1,104 @@
+.login .navtitle.data-v-23232306 {
+  font-family: PingFang SC;
+  color: #ffffff;
+}
+.login .navtitle .hello.data-v-23232306 {
+  width: 200rpx;
+  height: 100rpx;
+  font-size: 36rpx;
+  font-weight: bold;
+  padding-left: 100rpx;
+  padding-top: 50rpx;
+}
+.login .navtitle .welcome.data-v-23232306 {
+  height: 27rpx;
+  font-size: 28rpx;
+  font-weight: 500;
+  padding-left: 100rpx;
+}
+.login .text.data-v-23232306 {
+  padding: 20rpx 102rpx;
+  font-size: 24rpx;
+  color: red;
+}
+.login .input.data-v-23232306 {
+  margin-top: 80rpx;
+  min-height: 600rpx;
+}
+.login .input .phone.data-v-23232306,
+.login .input .pwd.data-v-23232306,
+.login .input .forget.data-v-23232306,
+.login .input .loginbtn.data-v-23232306 {
+  padding: 0 102rpx;
+}
+.login .input .phone .title.data-v-23232306,
+.login .input .pwd .title.data-v-23232306,
+.login .input .forget .title.data-v-23232306,
+.login .input .loginbtn .title.data-v-23232306 {
+  margin: 40rpx 0;
+  font-size: 42rpx;
+  font-family: PingFang SC;
+  font-weight: 500;
+  color: #000000;
+}
+.login .input .phone .uni-input.data-v-23232306,
+.login .input .pwd .uni-input.data-v-23232306,
+.login .input .forget .uni-input.data-v-23232306,
+.login .input .loginbtn .uni-input.data-v-23232306 {
+  border-bottom: 1rpx solid #808080;
+  font-size: 32rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #808080;
+}
+.login .input .phone .loginpwd.data-v-23232306,
+.login .input .pwd .loginpwd.data-v-23232306,
+.login .input .forget .loginpwd.data-v-23232306,
+.login .input .loginbtn .loginpwd.data-v-23232306 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: nowrap;
+          flex-wrap: nowrap;
+}
+.login .input .phone .loginpwd .uni-input.data-v-23232306,
+.login .input .pwd .loginpwd .uni-input.data-v-23232306,
+.login .input .forget .loginpwd .uni-input.data-v-23232306,
+.login .input .loginbtn .loginpwd .uni-input.data-v-23232306 {
+  -webkit-box-flex: 3;
+  -webkit-flex: 3;
+          flex: 3;
+}
+.login .input .phone .loginpwd .uni-icon.data-v-23232306,
+.login .input .pwd .loginpwd .uni-icon.data-v-23232306,
+.login .input .forget .loginpwd .uni-icon.data-v-23232306,
+.login .input .loginbtn .loginpwd .uni-icon.data-v-23232306 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  border-bottom: 1rpx solid #808080;
+}
+.login .input .phone .loginpwd .uni-icon image.data-v-23232306,
+.login .input .pwd .loginpwd .uni-icon image.data-v-23232306,
+.login .input .forget .loginpwd .uni-icon image.data-v-23232306,
+.login .input .loginbtn .loginpwd .uni-icon image.data-v-23232306 {
+  float: right;
+}
+.login .input .forget .forgetpwd.data-v-23232306 {
+  float: right;
+  height: 30rpx;
+  font-size: 30rpx;
+  font-family: PingFang SC;
+  font-weight: 500;
+  text-decoration: underline;
+  color: #3f79fb;
+}
+.login .input .loginbtn.data-v-23232306 {
+  margin-top: 100rpx;
+}
+.login .input .loginbtn button.data-v-23232306 {
+  background: #5db793;
+  -webkit-border-radius: 40px;
+          border-radius: 40px;
+}
+

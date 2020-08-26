@@ -1,0 +1,101 @@
+.productsample .navtitle .sample.data-v-4741a6e6 {
+  height: 34rpx;
+  font-size: 36rpx;
+  font-family: PingFang SC;
+  font-weight: bold;
+  color: #ffffff;
+  padding-left: 100rpx;
+  padding-top: 120rpx;
+}
+.productsample .main .good_item.data-v-4741a6e6 {
+  border: 1rpx solid #ccc;
+  border-left: 4rpx solid #5DB793;
+  margin: 32rpx;
+}
+.productsample .main .good_item .good_batch.data-v-4741a6e6 {
+  padding-top: 30rpx;
+  padding-left: 40rpx;
+  height: 27rpx;
+  font-size: 28rpx;
+  font-family: PingFang SC;
+  font-weight: bold;
+  color: #5db793;
+  margin-bottom: 34rpx;
+}
+.productsample .main .good_item .good_info_wrap.data-v-4741a6e6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.productsample .main .good_item .good_info_wrap image.data-v-4741a6e6 {
+  width: 200rpx;
+  height: 200rpx;
+  padding-left: 40rpx;
+}
+.productsample .main .good_item .good_info_wrap .good_desc.data-v-4741a6e6 {
+  padding-left: 38rpx;
+}
+.productsample .main .good_item .good_info_wrap .good_desc .good_name.data-v-4741a6e6,
+.productsample .main .good_item .good_info_wrap .good_desc .good_num.data-v-4741a6e6,
+.productsample .main .good_item .good_info_wrap .good_desc .good_source.data-v-4741a6e6,
+.productsample .main .good_item .good_info_wrap .good_desc .good_class.data-v-4741a6e6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  margin-bottom: 20rpx;
+}
+.productsample .main .good_item .good_info_wrap .good_desc .good_name .left.data-v-4741a6e6,
+.productsample .main .good_item .good_info_wrap .good_desc .good_num .left.data-v-4741a6e6,
+.productsample .main .good_item .good_info_wrap .good_desc .good_source .left.data-v-4741a6e6,
+.productsample .main .good_item .good_info_wrap .good_desc .good_class .left.data-v-4741a6e6 {
+  width: 150rpx;
+  font-size: 28rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #808080;
+}
+.productsample .main .good_item .good_info_wrap .good_desc .good_name .right.data-v-4741a6e6,
+.productsample .main .good_item .good_info_wrap .good_desc .good_num .right.data-v-4741a6e6,
+.productsample .main .good_item .good_info_wrap .good_desc .good_source .right.data-v-4741a6e6,
+.productsample .main .good_item .good_info_wrap .good_desc .good_class .right.data-v-4741a6e6 {
+  -webkit-box-flex: 2;
+  -webkit-flex: 2;
+          flex: 2;
+  font-size: 28rpx;
+  font-family: PingFang SC;
+  font-weight: 500;
+  color: #333333;
+  text-align: left;
+}
+.productsample .main .project.data-v-4741a6e6,
+.productsample .main .result.data-v-4741a6e6,
+.productsample .main .save.data-v-4741a6e6 {
+  padding: 0 102rpx;
+}
+.productsample .main .project .title.data-v-4741a6e6,
+.productsample .main .result .title.data-v-4741a6e6,
+.productsample .main .save .title.data-v-4741a6e6 {
+  margin: 40rpx 0;
+  font-size: 38rpx;
+  font-family: PingFang SC;
+  font-weight: 500;
+  color: #000000;
+}
+.productsample .main .project .uni-input.data-v-4741a6e6,
+.productsample .main .result .uni-input.data-v-4741a6e6,
+.productsample .main .save .uni-input.data-v-4741a6e6 {
+  border-bottom: 1rpx solid #808080;
+  font-size: 18px;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #808080;
+}
+.productsample .main .save.data-v-4741a6e6 {
+  margin-top: 100rpx;
+}
+.productsample .main .save button.data-v-4741a6e6 {
+  background: #5db793;
+  -webkit-border-radius: 40px;
+          border-radius: 40px;
+}
+

@@ -1,0 +1,86 @@
+.flowTraceEnter.data-v-0fdaaad2 {
+  padding-bottom: 42rpx;
+}
+.flowTraceEnter .title.data-v-0fdaaad2 {
+  position: absolute;
+  font-size: 36rpx;
+  color: #fff;
+  top: 126rpx;
+  left: 70rpx;
+  font-weight: bold;
+}
+.flowTraceEnter .add_btn.data-v-0fdaaad2 {
+  position: absolute;
+  bottom: 33rpx;
+  right: 50rpx;
+  width: 164rpx;
+  height: 60rpx;
+  color: #5DB793;
+  -webkit-border-radius: 30rpx;
+          border-radius: 30rpx;
+  background-color: #fff;
+  font-size: 24rpx;
+  line-height: 60rpx;
+  text-align: center;
+}
+.flowTraceEnter .main .form.data-v-0fdaaad2 {
+  margin: 64rpx 0 53rpx 0;
+}
+.flowTraceEnter .main .form .form_item.data-v-0fdaaad2 {
+  margin-bottom: 98rpx;
+}
+.flowTraceEnter .main .form .form_item.data-v-0fdaaad2:last-child {
+  margin-bottom: 0;
+}
+.flowTraceEnter .main .form .form_item .item_title.data-v-0fdaaad2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  font-size: 32rpx;
+  color: #5DB793;
+  margin-bottom: 40rpx;
+  padding-left: 72rpx;
+}
+.flowTraceEnter .main .form .form_item .item_title .right.data-v-0fdaaad2,
+.flowTraceEnter .main .form .form_item .item_title .left.data-v-0fdaaad2 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.flowTraceEnter .main .form .form_item .subform.data-v-0fdaaad2 {
+  padding: 0 104rpx 0 103rpx;
+}
+.flowTraceEnter .main .form .form_item .subform .subform_item.data-v-0fdaaad2 {
+  padding-bottom: 18rpx;
+  margin-bottom: 59rpx;
+  border-bottom: 1rpx solid #808080;
+}
+.flowTraceEnter .main .form .form_item .subform .subform_item.data-v-0fdaaad2:last-child {
+  margin-bottom: 0;
+}
+.flowTraceEnter .main .form .form_item .subform .subform_item .subitem_title.data-v-0fdaaad2 {
+  font-size: 32rpx;
+  color: #000;
+  margin-bottom: 51rpx;
+}
+.flowTraceEnter .main .form .form_item .subform .subform_item.data-v-0fdaaad2 .uni-input-placeholder {
+  font-size: 28rpx;
+  color: #808080;
+}
+.flowTraceEnter .main .form .form_item .subform .subform_item input.data-v-0fdaaad2 {
+  font-size: 28rpx;
+  color: #333;
+}
+.flowTraceEnter .main .next_btn_wrap .btn.data-v-0fdaaad2 {
+  width: 580rpx;
+  height: 84rpx;
+  background-color: #5DB793;
+  font-size: 28rpx;
+  color: #fff;
+  -webkit-border-radius: 42rpx;
+          border-radius: 42rpx;
+  text-align: center;
+  line-height: 84rpx;
+  margin: 0 auto;
+}
+

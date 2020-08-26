@@ -1,0 +1,1 @@
+<view class="trackTab data-v-603b42d0"><view class="tab data-v-603b42d0"><block wx:for="{{trackTabList}}" wx:for-item="item" wx:for-index="index" wx:key="id"><view data-event-opts="{{[['tap',[['changeTab',[index]]]]]}}" class="{{['data-v-603b42d0',currentIndex===index?'tab_item active':'tab_item']}}" bindtap="__e">{{item.text}}</view></block></view><slot></slot></view>

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "农贸市场管理员",
+  "usingComponents": {
+    "navbar": "/components/navbar/navbar",
+    "uni-calendar": "/components/uni-calendar/uni-calendar"
+  }
+}

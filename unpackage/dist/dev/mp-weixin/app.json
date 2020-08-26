@@ -1,0 +1,26 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/changepwd/changepwd",
+    "pages/index/index",
+    "pages/businessinfor/businessinfor",
+    "pages/boothmanagement/boothmanagement",
+    "pages/boothinfor/boothinfor",
+    "pages/merchantproductrun/merchantproductrun",
+    "pages/productsample/productsample",
+    "pages/merchantTracking/merchantTracking",
+    "pages/createProduct/createProduct",
+    "pages/flowTraceEnter/flowTraceEnter",
+    "pages/productTraceEnter/productTraceEnter",
+    "pages/createProduct_choose/createProduct_choose"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "农贸市场管理员",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "permission": {},
+  "usingComponents": {}
+}
